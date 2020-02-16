@@ -16,4 +16,9 @@ Solution in Code1.js
 Example: getExtension(["code.html", "code.css"])
 ➞ ["html", "css"]
 
+# Reverse and Capitalize
+
+3. Create a function that takes a string of lowercase characters and returns that string reversed and in upper case.
+Example: reverseCapitalize("abc") ➞ "CBA"
+
 
