@@ -28,6 +28,9 @@ Example: reverseCapitalize("abc") ➞ "CBA"
 4. A word has been split into a left part and a right part. Re-form the word by adding both halves together, changing the first character to an uppercase letter.
 Example: getWord("seas", "onal") ➞ "Seasonal"
 
+# Little Dictionary
 
+5. Create a function that takes in an initial word and filters out an array to contain words that start with the same letters as the initial word.
+Example: dictionary("bu", ["button", "breakfast", "border"]) ➞ ["button"]
 
 
