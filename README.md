@@ -10,3 +10,10 @@ Example: reverse("Hello World") ➞ "dlroW olleH"
 
 Solution in Code1.js
 
+# Get the File Extension
+
+2. Write a function that maps files to their extension names.
+Example: getExtension(["code.html", "code.css"])
+➞ ["html", "css"]
+
+
