@@ -33,4 +33,10 @@ Example: getWord("seas", "onal") ➞ "Seasonal"
 5. Create a function that takes in an initial word and filters out an array to contain words that start with the same letters as the initial word.
 Example: dictionary("bu", ["button", "breakfast", "border"]) ➞ ["button"]
 
+# Return Only the Integer
+
+6. Write a function that takes an array of elements and returns only the integers.
+Example: returnOnlyInteger([9, 2, "space", "car", "lion", 16]) ➞  [9, 2, 16]
+
+
 
