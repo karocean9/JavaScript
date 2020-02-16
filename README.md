@@ -23,4 +23,11 @@ Example: getExtension(["code.html", "code.css"])
 3. Create a function that takes a string of lowercase characters and returns that string reversed and in upper case.
 Example: reverseCapitalize("abc") ➞ "CBA"
 
+# Re-Form the Word
+
+4. A word has been split into a left part and a right part. Re-form the word by adding both halves together, changing the first character to an uppercase letter.
+Example: getWord("seas", "onal") ➞ "Seasonal"
+
+
+
 
